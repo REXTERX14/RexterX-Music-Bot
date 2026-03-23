@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 AeroX Music
+# 🎵 RexterX Music
 
 ![AeroX Music](https://img.shields.io/badge/AeroX-Music%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
