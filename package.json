@@ -1,5 +1,5 @@
 {
-  "name": "aerox-music",
+  "name": "RexterXx-music",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
     "music",
     "lavalink"
   ],
-  "author": "itsfizys (Aegis)",
+  "author": "itsdilshan (Dila)",
   "license": "ISC",
-  "description": "AeroX Music Bot with LavaLink",
+  "description": "RexterX Music Bot with LavaLink",
   "dependencies": {
     "@napi-rs/canvas": "^0.1.80",
     "axios": "^1.11.0",
