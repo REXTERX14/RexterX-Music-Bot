@@ -129,8 +129,8 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
    Create a `.env` file in the root directory:
    ```env
    # Bot Configuration
-   BOT_TOKEN=your_discord_bot_token
-   CLIENT_ID=your_bot_client_id
+   BOT_TOKEN=MTQ4NTU1NDg2NDI3MTUyNzkzNg.GNdZIg.aNFfuum5HgZTeNVLMuuntp9mAPBsZyR7K3yFRk
+   CLIENT_ID=1485554864271527936
    
    # LavaLink Configuration
    LAVALINK_HOSTS=your.lavalink.host
@@ -149,7 +149,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 4. **Configure bot settings**
    
    Edit `AeroX-Music/config.js` to customize your bot:
-   - Change the prefix (default: `,`)
+   - Change the prefix (default: `/`)
    - Adjust playlist limits
    - Configure default music platform
    - Set artwork style
