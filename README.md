@@ -47,7 +47,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 - 🎲 **Autoplay** - Automatically queue similar songs when the queue ends
 - 🖼️ **Beautiful Music Cards** - Custom artwork for now playing displays
 - ⚡ **Slash Commands** - Modern Discord slash command support
-- 📌 **Prefix Commands** - Traditional prefix commands (`,` by default)
+- 📌 **Prefix Commands** - Traditional prefix commands (`/` by default)
 
 ---
 
@@ -182,7 +182,7 @@ You can use free public LavaLink servers (not recommended for production):
 ### Changing the Prefix
 Edit `AeroX-Music/config.js`:
 ```javascript
-PREFIX: '!',  // Change to your desired prefix
+PREFIX: '/',  // Change to your desired prefix
 ```
 
 ### Adjusting Playlist Limits
